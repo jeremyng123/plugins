@@ -33,6 +33,8 @@ git submodule update --init --recursive
 ### plugin1
 
 > Description
->
+
+
+TODO: add all the plugins i use and how to add them into IDA Pro
 
 
