@@ -1,0 +1,12 @@
+[submodule "labeless"]
+	path = labeless
+	url = https://github.com/a1ext/labeless.git
+[submodule "hashdb"]
+	path = hashdb
+	url = https://github.com/OALabs/hashdb.git
+[submodule "capa"]
+	path = capa
+	url = https://github.com/mandiant/capa.git
+[submodule "capa-rules"]
+	path = capa-rules
+	url = https://github.com/mandiant/capa-rules.git
